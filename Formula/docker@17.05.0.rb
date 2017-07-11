@@ -1,4 +1,4 @@
-class Docker < Formula
+class DockerAT17050 < Formula
   desc "Pack, ship and run any application as a lightweight container"
   homepage "https://www.docker.com/"
   url "https://github.com/docker/docker-ce.git",
